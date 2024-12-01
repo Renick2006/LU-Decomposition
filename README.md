@@ -44,9 +44,10 @@ print(solution)
 
 ## Output:
 i] To find the L and U matrix
-![image](https://github.com/user-attachments/assets/4d766e0c-ab81-44a0-9710-e7993b14bfc1)
+![image](https://github.com/user-attachments/assets/eefc81a8-7cd2-48da-898d-c424c34780eb)
+
 ii] To find the LU Decomposition of a matrix
-![image](https://github.com/user-attachments/assets/d8c3ad79-8422-4bc4-ae50-707e0795c96a)
+![image](https://github.com/user-attachments/assets/e2093cae-3b60-4e9d-aa6e-b3f70cae96dd)
 
 
 
